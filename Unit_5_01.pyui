@@ -1,0 +1,69 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{0, 22}, {540, 239}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "random_number_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "F084DC27-B209-4E66-8467-04294E7B8A84",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 20,
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{233, 269}, {80, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "calculate_button_touch_up_inside",
+          "frame" : "{{230, 254}, {80, 32}}",
+          "title" : "Calculate",
+          "uuid" : "311CBAB4-C3F8-4328-B890-AF79E1AAF05D",
+          "class" : "Button",
+          "name" : "calculate_button",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{6, 340}, {528, 45}}",
+        "class" : "Label",
+        "attributes" : {
+          "name" : "average_number_label",
+          "frame" : "{{195, 254}, {150, 32}}",
+          "uuid" : "E60BCF35-3260-430B-B248-AC3B85F11F21",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "",
+          "font_size" : 20,
+          "font_name" : "<System>"
+        },
+        "selected" : true
+      }
+    ],
+    "frame" : "{{0, 0}, {540, 540}}",
+    "class" : "View",
+    "attributes" : {
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
